@@ -2,7 +2,9 @@
 
 namespace MarcoKretz\AdventOfCode2023\Day1;
 
-class Solver
+use MarcoKretz\AdventOfCode2023\AbstractSolver;
+
+class Solver extends AbstractSolver
 {
     private const DIGIT_MAP = [
         'zero' => '0',

@@ -2,7 +2,9 @@
 
 namespace MarcoKretz\AdventOfCode2023\Day2;
 
-class Solver
+use MarcoKretz\AdventOfCode2023\AbstractSolver;
+
+class Solver extends AbstractSolver
 {
     public function solve(): void
     {
