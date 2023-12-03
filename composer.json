@@ -1,0 +1,18 @@
+{
+    "name": "marco-kretz/advent-of-code-2023",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "MarcoKretz\\AdventOfCode2023\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Marco Kretz",
+            "email": "marco@codebites.de"
+        }
+    ],
+    "require": {
+        "symfony/console": "^6.4"
+    }
+}
