@@ -4,6 +4,8 @@ I tried to keep the code as simple as possible, so it's not the most efficient s
 I want it to be easy to understand for beginners. Code duplication is intended in some cases<br>
 to make it easier to understand the code.
 
+More info: [Advent of Code](https://adventofcode.com/2023/about)
+
 ## Requirements
 
 -   PHP >= 8.1
